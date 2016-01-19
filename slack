@@ -21,7 +21,7 @@ slack_path = "/services/T0300ST2Z/B0HEY0V0X/yLKZnafjOs56Th6fLHOUoea3"
 channel = "#vpc-consul-check-stag"
 bot_name = "CMKBot"
 proxies = {
-           "http" : "http://10.140.192.134:10000"
+           "http" : "http://10.140.192.134:10000",
            "https" : "http://10.140.192.134:10000"
           }
 
